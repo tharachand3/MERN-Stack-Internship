@@ -16,27 +16,22 @@ It demonstrates **end-to-end full stack development** using the MERN architectur
 - Develop and test a complete working application
 
 ---
-
 ## 🛠 Technology Stack
 
 ### Frontend
 - React.js  
 - HTML  
 - CSS  
-
 ### Backend
 - Node.js  
 - Express.js  
-
 ### Database
 - MongoDB  
-
 ### Other Tools
 - JWT (JSON Web Token) for authentication  
 - Jamendo Music API for music streaming  
 
 ---
-
 ## 🏗 Architecture & Design
 - Follows **MERN Stack architecture**
 - React handles the user interface
@@ -130,6 +125,7 @@ This internship project strengthened my fundamentals in full stack web developme
 
 ## 👤 Author
 **K Tharachand Chowdary**  
-📧 Email: 228003158@sastra.ac.in  
+📧 Email: 228003158@sastra.ac.in 
+📧 Email: tharachandchowdary@gmail.com  
 🎓 Sastra Deemed University  
 🏢 WSA Webstack Academy (MERN Stack Internship)
