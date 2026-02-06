@@ -84,7 +84,9 @@ A video demonstration showcasing:
 - Music loading from Jamendo API
 - Music playback functionality
 
-📺 **YouTube Demo:** *(Add your video link here)*
+## 🎥 Project Demo
+📺 **Watch Project Demo:** [Click here to watch](https://youtu.be/oegbTDAWAfY)
+
 
 ---
 
