@@ -84,7 +84,6 @@ A video demonstration showcasing:
 - Music loading from Jamendo API
 - Music playback functionality
 
-## 🎥 Project Demo
 📺 **Watch Project Demo:** [Click here to watch](https://youtu.be/oegbTDAWAfY)
 
 
@@ -102,6 +101,32 @@ A video demonstration showcasing:
 This internship project strengthened my fundamentals in full stack web development and provided real-world experience in building, deploying, and explaining a complete MERN Stack application.
 
 ---
+## ▶️ How to Use the Application
+
+### Register / Login
+- Create a new user account or log in with existing credentials
+- Authentication is handled using JWT
+
+### Access Music Player
+- After successful login, users are redirected to the main music player
+- Unauthorized users cannot access protected pages
+
+### Browse Music
+- Music tracks are fetched dynamically from the Jamendo Public Music API
+- Songs are displayed with basic metadata
+
+### Play Music
+- Select a track to start streaming
+- Use player controls:
+  - Play
+  - Pause
+  - Next
+  - Previous
+
+### Session Handling
+- User session is maintained using JWT
+- On logout, access to protected routes is removed
+
 
 ## 👤 Author
 **K Tharachand Chowdary**  
