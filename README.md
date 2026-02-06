@@ -125,7 +125,6 @@ This internship project strengthened my fundamentals in full stack web developme
 
 ## 👤 Author
 **K Tharachand Chowdary**  
-📧 Email: 228003158@sastra.ac.in 
-📧 Email: tharachandchowdary@gmail.com  
+📧 Email: 228003158@sastra.ac.in  tharachandchowdary@gmail.com  
 🎓 Sastra Deemed University  
 🏢 WSA Webstack Academy (MERN Stack Internship)
